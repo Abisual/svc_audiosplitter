@@ -4,7 +4,10 @@ Please note that the bat file does not convert files to another format, but simp
 
 ## How it works
 
-First clone the repository and run the script. You can also use a ready-made release for more convenient work: https://github.com/Abisual/svc_audiosplitter/releases/tag/Python
+First clone the repository and run the script. You can also use a ready-made release for more convenient work: https://github.com/Abisual/svc_audiosplitter/releases/tag/svc_audiosplitter_en
+
+![image](https://github.com/Abisual/svc_audiosplitter/assets/45770262/bdaf262c-3dd0-418f-b9fe-9c396ecfb2f9)
+
 
 The default field is 10 seconds. You can change this value at your discretion.
 The check mark is responsible for whether the source files will remain in place after processing or will be deleted. (before using, make sure that your sources are saved somewhere else).
